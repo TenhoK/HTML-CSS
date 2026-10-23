@@ -1,3 +1,3 @@
 # HTML-CSS
 
-En tiedä poikkesinko aiheesta, mutta tein tehtävän ehkä vähän eri tavalla. Tein sivut yritykseni pohjalta, koska se oli helpoin visualisoida ja neutraali tapa ajatella miltä yrityksen sivut voisi näyttää.
+En tiedä poikkesinko aiheesta, mutta tein tehtävän ehkä vähän eri tavalla. Tein sivut yritykseni pohjalta, koska se oli helpoin visualisoida ja neutraali tapa ajatella miltä yrityksen sivut voisi näyttää. Muuten sama kuin mallissa, mutta vaan omalla idella ja kuvilla etc...
